@@ -1,7 +1,6 @@
 {
   "name": "halaqi-api",
   "version": "1.0.0",
-  "description": "Halaqi API Backend",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
